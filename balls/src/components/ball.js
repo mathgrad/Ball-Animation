@@ -1,5 +1,5 @@
-const ball = typeBall => {
-  return <div className={typeBall}></div>;
+const Ball = type => {
+  return <div className={type}></div>;
 };
 
-export default ball;
+export default Ball;
